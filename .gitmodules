@@ -1,0 +1,12 @@
+[submodule "requirements/isa-lcrypto-2.24.0"]
+	path = requirements/isa-lcrypto-2.24.0
+	url = git@github.com:intel/isa-l_crypto.git
+[submodule "requirements/jemalloc-5.3.0"]
+	path = requirements/jemalloc-5.3.0
+	url = git@github.com:jemalloc/jemalloc.git
+[submodule "requirements/zstd-1.5.5"]
+	path = requirements/zstd-1.5.5
+	url = git@github.com:facebook/zstd.git
+[submodule "requirements/lz4-1.9.4"]
+	path = requirements/lz4-1.9.4
+	url = git@github.com:lz4/lz4.git
